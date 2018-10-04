@@ -1,0 +1,30 @@
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.pdb
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\#AccessoryExtension.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.xml
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.dll
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.pdb
+C:\Users\s0562411\Documents\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.pdb
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\#AccessoryExtension.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.xml
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CopyComplete
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.pdb

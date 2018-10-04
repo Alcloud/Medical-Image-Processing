@@ -1,0 +1,66 @@
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\obfuscation.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.CognitionMasterPlugins.SlideData.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.CognitionMasterPlugins.SlideData.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Core.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Adapters.Accord.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.Imaging.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.Statistics.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.Math.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.CognitionMasterIntegration.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.CognitionMasterIntegration.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.SlideProcessing.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.SlideProcessing.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.SharpAccessoryIntegration.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Geometry.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.DiscreteGeometry.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Core.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Core.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Glaukopis.Adapters.Accord.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.Imaging.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.Statistics.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.Math.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\obj\Debug\SlideData.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.pdb
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.CognitionMasterPlugins.SlideData.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.CognitionMasterPlugins.SlideData.pdb
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\#AccessoryExtension.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.Core.dll
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\s0562411\Documents\MIP\SlideData\bin\Debug\Glaukopis.Core.xml
+C:\Users\s0562411\Documents\MIP\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.dll
+C:\Users\s0562411\Documents\MIP\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.pdb
+C:\Users\s0562411\Documents\MIP\SlideData\obj\Debug\SlideData.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.CognitionMasterPlugins.SlideData.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.CognitionMasterPlugins.SlideData.pdb
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\#AccessoryExtension.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.Core.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\bin\Debug\Glaukopis.Core.xml
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\obj\Debug\SlideData.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\obj\Debug\SlideData.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\obj\Debug\SlideData.csproj.CopyComplete
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.pdb

@@ -1,0 +1,32 @@
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\BudDetectionPlugin.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\BudDetectionPlugin.pdb
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\#AccessoryExtension.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\BudDetection.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Core.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\BudDetection.pdb
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Core.xml
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.csprojResolveAssemblyReference.cache
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.dll
+C:\Users\s0562411\Documents\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.pdb
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\BudDetectionPlugin.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\BudDetectionPlugin.pdb
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\#AccessoryExtension.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\BudDetection.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Core.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\BudDetection.pdb
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Core.xml
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.csproj.CopyComplete
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.dll
+C:\Users\Administrator\Documents\UNI\Master\2 Semester\Bildbearbeitung\Project\MIP\BudDetectionPlugin\obj\Debug\BudDetectionPlugin.pdb
